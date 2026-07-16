@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-4qr40w.luizguilherme.online/sitemap.xml
